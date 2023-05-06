@@ -1,3 +1,3 @@
 # wiremodal
 
-Trying a blog hosted on GitHub Pages
+Publishing weblog.lol posts via GitHub.
