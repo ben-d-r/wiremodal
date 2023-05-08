@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-31 20:35
 Tags: reading
-Status:
+Status: Draft
 ---
 
 # Reading notes - Week 52, 2021
