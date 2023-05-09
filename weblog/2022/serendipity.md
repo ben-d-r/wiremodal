@@ -1,7 +1,7 @@
 ---
 Date: 2022-07-02 13:00
-Status: Draft
-Tags: Science
+Status: 
+Tags: science
 ---
 
 # Serendipity
