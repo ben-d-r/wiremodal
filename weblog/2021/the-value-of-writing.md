@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-29 20:58
 Tags: writing
-Status: Draft
+Status: 
 ---
 
 # The Value of Writing
