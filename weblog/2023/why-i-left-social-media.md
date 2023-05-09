@@ -1,7 +1,7 @@
 ---
 Date: 2023-05-01 23:03
 Tags: culture
-Status: Draft
+Status: 
 ---
 
 # Why I Left Social Media
