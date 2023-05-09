@@ -1,6 +1,6 @@
 ---
 Date: 2022-07-02 13:00
-Status:
+Status: Draft
 Tags: Science
 ---
 
