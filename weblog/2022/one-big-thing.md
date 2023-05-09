@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-03 21:45
 Tags: bitcoin, fox
-Status: Draft
+Status: 
 ---
 
 # One Big Thing
