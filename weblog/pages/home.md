@@ -4,7 +4,7 @@ Tags:
 Type: Page
 Title: Home
 Location: /
-Status: 
+Status: Draft
 ---
 
 # Welcome to my blog.
