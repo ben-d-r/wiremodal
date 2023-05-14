@@ -8,7 +8,7 @@ Tags: science
 
 I had a microbiology professor at university who liked to point out the role of serendipity in scientific discovery. The oft-cited example is Alexander Fleming's discovery of penicillin. The story goes that he left his lab in disarray on a weekend: petri dishes covered with bacteria were strewn about the lab bench, the window left open. When he returned the following week, dishes that once had bacterial growth were bare. He discovered that a fungus had blown through the window, contaminating his petri dishes, and killing the bacteria on them. Eventually, penicillin was isolated from the fungus.
 
-[Man of Culture](https://fiftytwo.in/story/man-of-culture/) from FiftyTwo magazine tells a similar story. Here's [The Browser's](https://thebrowser.com/)capsule summary:
+[Man of Culture](https://fiftytwo.in/story/man-of-culture/) from FiftyTwo magazine tells a similar story. Here's [The Browser's](https://thebrowser.com/) capsule summary:
 
 > Story of a scientist and a life-saving compound. Rapamycin was first found in a soil sample from Easter Island. Over many years, it was proved that its immunosuppressant qualities were indeed revolutionary for organ transplants and cancer treatment. Discoveries are made by teams, but without this one man "tireless proselytising" the drug, it may never have been developed.
 
