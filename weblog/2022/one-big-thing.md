@@ -23,6 +23,7 @@ Last year, I decided to be a hedgehog and focus my attention on one area of inte
 I made progress. I wrote a few good pieces that I'm proud of. I will post them on this blog in the near future. However, I couldn't help but feel constrained. The mission of my blog was to explain bitcoin and why it matters to the everyday person. This was interesting for a while but I soon found that I craved the freedom to connect these esoteric concepts of computation and money to other aspects of life and society. I didn't feel that this could be done properly behind a pseudonym. I had to get back to blogging under my real name. I had to resume my natural state as a fox. The Bitcoin genesis block was mined by Satoshi Nakamoto on January 3, 2009, exactly thirteen years ago today. Twenty years from now, I think this date will be known by all. It will be taught in public schools and marked on calendars. For now, it's remembered only by a few hedgehogs who believe that this is the most transformative technology of our generation.
 
 ![](https://github.com/ben-d-r/wiremodal_images/blob/127ea6ac416b5f3ea06e9d19dc78055edb9e1909/images/bitcoin_genesis.png)
+
 [Raw hex version of the Bitcoin genesis block](https://en.bitcoin.it/wiki/Genesis_block). Bitcoin Wiki. "Genesis block". CC BY 3.0.
 
 I can't identify as a "Bitcoin Maximalist" hedgehog. I won't say "Bitcoin fixes this" when confronted with any economic problem (other than perhaps in a tongue-in-cheek way). But I do believe that it is a transformative technology that will shape our world, hopefully for the better.
