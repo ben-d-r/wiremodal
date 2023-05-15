@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-14
 Tags: reading
-Status: Draft
+Status: 
 Slug: /bomber-mafia
 ---
 
