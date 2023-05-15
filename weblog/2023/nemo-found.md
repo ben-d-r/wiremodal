@@ -15,8 +15,9 @@ One scene in particular, with commentary from my son, illustrates the difference
 
 Merlin and Dory are trapped in a large whale. For Merlin, this is how it ends. He laments that he's failed in his duty to protect his son.
 
->Merlin: I promised him I'd never let anything happen to him.
->Dory: Huh. That's a funny thing to promise.
+>**Merlin:** I promised him I'd never let anything happen to him.
+
+>**Dory:** Huh. That's a funny thing to promise.
 
 I laughed at Dory's line. Because she's right. There's no way to uphold that promise. Sometimes things happen that can't be helped.
 
