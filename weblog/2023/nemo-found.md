@@ -23,6 +23,6 @@ I laughed at Dory's line. Because she's right. There's no way to uphold that pro
 
 My son's response was the opposite: "No, that's not a funny promise! That's an important thing to promise!"
 
-For a child, their parent is always there to save the day. Nemo is never in any real danger; he's on an interesting adventure, albeit one that's a bit scary. For a parent, Finding Nemo is a harrowing tale of loss and responsibility. Merlin is constantly on the edge of despair as he realizes his promise was hollow. If he loses Nemo he loses everything, and the deck is stacked against him.
+For a child, their parent is always there to save the day. Nemo is never in any real danger; he's on an interesting adventure, albeit one that's a bit scary. For a parent, *Finding Nemo* is a harrowing tale of loss and responsibility. Merlin is constantly on the edge of despair as he realizes his promise was hollow. If he loses Nemo he loses everything, and the deck is stacked against him.
 
 I haven't decided yet if I'll promise my son never to let anything happen to him. On one hand, I try to always be truthful with him. I know this is an impossible promise to guarantee, though I'll do everything in my power to keep it. On the other hand, some fictions are useful, if only to reinforce the understanding that his dad is always there for him. Eventually, he'll learn that I'm not superman, but perhaps he doesn't need to know that quite yet.
