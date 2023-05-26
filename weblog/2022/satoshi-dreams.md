@@ -49,13 +49,13 @@ Hash functions have some more key features that are relevant to Bitcoin:
 -   A small change to the message results in an uncorrelated hash value. In the example below, the digests are all the same size but the alphanumeric string is completely different with no discernible pattern.
 -   It's extremely difficult, if not impossible, to find two messages with the same hash value.
 
-![](https://img.wiremodal.net/images/Cryptographic_Hash_Function.png)
+![](https://assets.wiremodal.net/images/Cryptographic_Hash_Function.png)
 
 User:Jorge Stolfi based on Image:Hash_function.svg by Helix84, Public domain, via Wikimedia Commons
 
 A hash function may be thought of as a digital fingerprint. No two messages share a hash value. In this way, it's useful for proof of knowledge. If I write a text file with some information, generate the hash value, and share it publicly (e.g. Twitter), I have effectively timestamped encrypted information. If I ever need to prove that I was in possession of this information, I can share the text file and anyone can verify that the hash matches that which was previously published. Satoshi Nakamoto famously timestamped the first Bitcoin block ("genesis block") with a headline from _The Times_ of London. This demonstrates that the block was mined no earlier than January 3, 2009.
 
-![Raw hex version of the Bitcoin genesis block. Bitcoin Wiki. "Genesis block". CC BY 3.0](https://img.wiremodal.net/images/bitcoin_genesis.png)
+![Raw hex version of the Bitcoin genesis block. Bitcoin Wiki. "Genesis block". CC BY 3.0](https://assets.wiremodal.net/images/bitcoin_genesis.png)
 
 03/Jan/2009 Chancellor on brink of second bailout for banks
 
@@ -103,7 +103,7 @@ Transactions must be timestamped so that the network knows the chronological ord
 
 Transactions that are proposed for a new block are checked against the transactions that have been recorded in previous blocks. Identical transactions that appear in earlier blocks are rejected from the new block. This method solves the double-spending problem.
 
-![](https://img.wiremodal.net/images/timestamp-server.svg)
+![](https://assets.wiremodal.net/images/timestamp-server.svg)
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/). Nakamoto Institute. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -113,7 +113,7 @@ While the double-spending problem is solved, based on this description it appear
 
 Satoshi based his proof-of-work system on Adam Back's [Hashcash](https://nakamotoinstitute.org/static/docs/hashcash.pdf). Each block also contains a nonce that is incremented to find a hash with a certain number of leading zero bits. This establishes a certain amount of work that must be completed before finding a valid hash for the block. In order to edit a previous block, you must redo all the work to find a hash with the requisite number of zero bits and do the same for all the downstream blocks. This turns a task that might take milliseconds to do once into a job that takes approximately 10 minutes.
 
-![](https://img.wiremodal.net/images/proof-of-work.svg)
+![](https://assets.wiremodal.net/images/proof-of-work.svg)
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/). Nakamoto Institute. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
