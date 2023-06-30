@@ -15,7 +15,7 @@ This post is prompted by the following:
 -   The need to crystalize my thoughts on the topic from research over the past couple of years.
 -   The desire to distinguish my views on Bitcoin from other, louder proponents who have different political ideology.
 
-I [previously presented](https://wiremodal.net/satoshi-dreams-of-electronic-cash/) the background information necessary for understanding how Bitcoin works. The purpose of this post is to concisely present why I think it's an important monetary technology for the world. I'll also discuss some of the risks and detractors.
+I [previously presented](https://wiremodal.net/satoshi-dreams/) the background information necessary for understanding how Bitcoin works. The purpose of this post is to concisely present why I think it's an important monetary technology for the world. I'll also discuss some of the risks and detractors.
 
 # A note on politics
 
