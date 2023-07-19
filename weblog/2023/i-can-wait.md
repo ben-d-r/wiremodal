@@ -1,7 +1,7 @@
 ---
 Date: 2023-07-19
 Tags: parenting, life manual
-Status: Draft
+Status:
 Slug:
 ---
 
