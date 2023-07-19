@@ -3,7 +3,7 @@ Date: 2023-07-19
 Type: Page
 Title: Subscribe
 Location: /subscribe
-Status:
+Status: Draft
 ---
 
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
