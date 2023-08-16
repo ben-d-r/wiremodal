@@ -18,7 +18,7 @@ This thrift store was different. It was a curated collection of books and other 
 
 I didn't make much money back then but I decided that I'd allow myself to shop at that bookstore without a budget. My main constraint was shelf space in my apartment. What started as a reasonable collection atop the fireplace mantle soon necessitated a floor standing bookcase. I found a used one for about $10 and told myself that once it was filled, I'd stop buying books. 
 
-That bookcase got filled, overflowed, and I bought another one. I bought more books to fill that, too. I felt a bit guilty buying books when I didn't have the time to read all of them. But still I was drawn to buying them. They represented sources of knowledge I had yet to uncover. Maybe I would read them, maybe I wouldn't, but at least they were there.
+That bookcase got filled, overflowed, and I bought another one. I bought more books to fill that, too. I felt a bit guilty buying books when I didn't have the time to read all of them. But still I was drawn to collecting them. They represented sources of knowledge I had yet to uncover. Maybe I would read them, maybe I wouldn't, but at least they were there.
 
 A few year later, my wife and I had bought a house. We now had more space to ourselves and I didn't feel quite so guilty about my book collection, though it was no longer growing at the same rate since we moved away from the used bookstore. Around this time, I read *The Black Swan* by Nassim Taleb and was pleased to come across this same conundrum, expressed in his concept of "Umberto Eco's Antilibrary".
 
