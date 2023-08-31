@@ -4,7 +4,6 @@ Tags: parenting, life manual
 Status: 
 Slug: /dont-pity-the-second
 ---
-#Quentin [[Journal]] #kids #parenting 
 
 # Don't Pity the Second Child (too much) 
 
