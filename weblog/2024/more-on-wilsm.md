@@ -1,12 +1,14 @@
 ---
 Date: 2024-02-15
 Tags: social media, culture
-Status: Draft
+Status:
+Slug: wilsm-2
 ---
 
 # More on Why I Left Social Media
 
 In May of last year, I [wrote about](https://wiremodal.net/why-i-left-social-media) why I left social media. This was a quick piece, written in the afterglow of finally deleting my Twitter account. It captured many of the main reasons for my quitting social media, though without much detail. In this piece, I'll expand on these arguments and present a few more.
+
 ## Leaving the mall
 
 >Commercial social media is like a shopping mall. It’s entirely possible to have a constructive conversation in one, it’s entirely possible to have a fruitful political debate at the food court, but it’s not _why_ the mall is built. It’s not what it’s _for_. What it’s _for_ is commerce. Anything more is a happy byproduct.
@@ -17,6 +19,7 @@ When I joined Facebook in 2007, it felt exciting. I was among the first wave of 
 In the early years, it was an extension of high school. Like a spare period where you're still hanging around killing time. I was part of a group of kids who liked The Beatles. We'd take turns posting an obscure lyric and it was a race to see who could name the song first. My friend Ryan usually won.
 
 What we didn't realize until years later, when the "newsfeed" became the default view, is that Facebook was actually a mall. We went there because it seemed like a convenient place to gather, and for a while, Facebook was quite happy to allow the teens to loiter. But like any mall that needs to make a profit, if you hang out in the food court for long enough, chances are you'll be kindly asked to fuck off somewhere else.
+
 ## Enshittification
 
 >Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
@@ -29,6 +32,7 @@ Cory Doctorow sees the social media platform business model as a progression tow
 I really enjoyed using Facebook when I first joined. It was a great way to connect with friends, old and new. The pivot to the newsfeed disrupted my experience while being a bonanza for advertisers. I remember in the early days of Twitter, as dissidents were using the platform to organize protests during the Arab Spring, pundits were hailing it as a great tool for global democracy. Ten years later, the platform was used by an American president to lead an uprising at the US Capitol. 
 
 While interesting, I don't really care about the business model of these companies. I hope they all fail. What really drove me to rethink my relationship with social media was the enormous amount of my data they have, how they intend to use it to provide their "service" to me, and finally, my calculation of the cost (loss of privacy) to the benefit (being seen).
+
 ## Are you outraged yet?
 
 >  ... [T]hink about a supercomputer pointed at your brain trying to figure out what's the perfect, next thing to show you that's on one side of the screen. On the other side of the screen is my prefrontal cortex, which evolved millions of years ago and is doing the best job it can to do goal articulation, goal retention and memory and sort of staying on task, self discipline, et cetera. So who's going to win in that battle?
@@ -39,6 +43,7 @@ In the run-up to the 2016 US Presidential election, I saw a lot of Donald Trump 
 Facebook did what it was designed to do: show me articles that I would click and drive advertising revenue. The only side effect was causing me mental anguish. If it were just me, no big deal. But it's everyone, and that means societal-level angst and polarization.
 
 It's not a fair fight. Our brains can't adequately process the amount of information spewed by social media platforms. We can't resist the temptation to give in to the outrage when a supercomputer on the other side of the screen knows exactly what will trigger us next. What's more, there's no shared experience on social media. No one's feed is the same. We're not all drawing conclusions from the same data. No wonder we can't agree on political issues.
+
 ## Wiretapped
 
 >[Think] these crooks tapped your phone to not have a file on you?
@@ -49,6 +54,7 @@ Facebook knew me better than I knew myself. Who knows how much data they had and
 Privacy is selectively revealing yourself to the world. Few people wish to stay completely anonymous. I write on this blog to reveal something about myself to others. However, I retain full control over this outlet. I choose what gets out. I don't mind if an AI company trains their model on my writing, but I don't want them to train it on my voice or physical likeness. I have less to fear than a celebrity. But I have more to fear than any celebrity 25 years ago. This risk is unacceptable to me.
 
 I don't engage in illegal activity, but what if something I do now legally is deemed illegal in the future? For example, I am active in learning about and using Bitcoin. Am I expected to believe that social media companies would protect my personal information from the government if Bitcoin-related activities are made illegal in the future? If the government asks them to jump, their only question will be, "How high?"
+
 ## Looking to the future
 
 >A company can't own the protocol, platform, and interface all in one. The protocol layer must be free.
