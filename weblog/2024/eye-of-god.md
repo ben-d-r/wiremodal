@@ -7,6 +7,9 @@ Slug: eye-of-god
 
 # Eye of God
 
+![https://assets.wiremodal.net/images/eclipse.jpg]
+Photo by <a href="https://unsplash.com/@szarapka?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Scott Szarapka</a> on <a href="https://unsplash.com/photos/photo-of-total-solar-eclipse-y07ClgzcVmc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 My mother-in-law has an amateur interest in astronomy. She is quick to point out the current phase of the moon to my sons. She can usually tell you which planets you'll likely see at sundown. In 2017, she travelled to South Carolina to view the eclipse that tracked west-to-east across the United States. And so, she was excited to learn that the 2024 eclipse would pass directly over her house near the shores of Lake Erie.
 
 Our plans to view the total solar eclipse were made months in advance. Our family, along with my mother-in-law's sister and a couple of long-time friends would gather at her place. The school board moved the scheduled PD day from Friday to Monday to align with "eclipse day", so my oldest son was off school anyway.
