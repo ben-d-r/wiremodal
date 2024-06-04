@@ -4,7 +4,7 @@ Tags: wonder
 Status:
 Slug: eye-of-god
 ---
-# Eye of God
+Eye of God
 
 My mother-in-law has an amateur interest in astronomy. She is quick to point out the current phase of the moon to my sons. She can usually tell you which planets you'll likely see at sundown. In 2017, she travelled to South Carolina to view the eclipse that tracked west-to-east across the United States. And so, she was excited to learn that the 2024 eclipse would pass directly over her house near the shores of Lake Erie.
 
