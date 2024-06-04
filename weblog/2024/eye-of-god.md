@@ -1,6 +1,6 @@
 ---
 Date: 2024-04-16
-Tags: #wonder
+Tags: wonder
 Status:
 Slug: eye-of-god
 ---
