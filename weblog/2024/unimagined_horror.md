@@ -10,7 +10,7 @@ Slug: horror
 ![](https://assets.wiremodal.net/images/war.jpg)
 Photo by <a href="https://unsplash.com/@britishlibrary?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">British Library</a> on <a href="https://unsplash.com/photos/a-group-of-men-sitting-next-to-each-other-in-a-trench-GQ5ELi84owE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-The Pulitzer organization [recently reran 1](https://www.pulitzer.org/article/i-sent-them-good-boy-and-they-made-him-murderer) the award-winning pieces by Seymour Hersh that broke the My Lai Massacre story in 1969. They were republished, I believe, to mark the occasion of Lt. William Calley’s death. I read them on my lunch break – not a good idea. The horrors described in the pieces are nauseating.
+The Pulitzer organization [recently reran](https://www.pulitzer.org/article/i-sent-them-good-boy-and-they-made-him-murderer) the award-winning pieces by Seymour Hersh that broke the My Lai Massacre story in 1969. They were republished, I believe, to mark the occasion of Lt. William Calley’s death. I read them on my lunch break – not a good idea. The horrors described in the pieces are nauseating.
 
 I’ve found myself reading war stories recently. Louis-Ferdinand Céline’s World War I novel _Guerre_ was recently published based on a long-lost manuscript. After that, I read the classic German novel, _All Quiet on the Western Front_. Both books paint a sickening picture of a grotesque and unnecessary war. The protagonists in both stories see the futility of it all, and both represent different sides of the conflict.
 
