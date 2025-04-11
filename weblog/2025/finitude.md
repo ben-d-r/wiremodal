@@ -6,7 +6,7 @@ slug: finitude
 
 # Canada Needs to Embrace Finitude
 
-_I wrote this article in February 2025 after Donald Trump had announced tariffs on Canada and Mexico. Things have progressed since then. I didn't post it because it feels a bit incomplete. I might update it as I learn more._
+_I wrote this article in February 2025 after Donald Trump had announced tariffs on Canada and Mexico. Things have progressed since then. I didn't post it because it feels a bit incomplete -- that said, it mostly captures my ideas on what happens next. I might update it as I learn more._
 
 The current North American trade war is nominally about border security and drug trafficking. At least, that's the pretence that Donald Trump is using. It's a bit baffling for Canadians as our border is not particularly porous -- if anything, we need to keep more talented Canadians here -- nor is there a huge drug problem. Certainly, it's tiny when compared to America's southern border.
 
