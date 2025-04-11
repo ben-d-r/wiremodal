@@ -3,6 +3,7 @@ date: 2025-04-11
 tags: Canada
 slug: finitude
 ---
+
 # Canada Needs to Embrace Finitude
 
 _I wrote this article in February 2025 after Donald Trump had announced tariffs on Canada and Mexico. Things have progressed since then. I didn't post it because it feels a bit incomplete. I might update it as I learn more._
