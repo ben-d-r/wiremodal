@@ -48,7 +48,7 @@ Feed post count: 25
 ;; -----
 
 Titleless title length: 80
-Title format: <h2><a href="$permalink">$title</a></h2>
+// Title format: <h2><a href="$permalink">$title</a></h2>
 Post path format: /
 Default post: <<[---
 Date: $date
