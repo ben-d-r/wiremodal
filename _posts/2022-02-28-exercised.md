@@ -2,7 +2,7 @@
 layout: post
 title: "Reading notes: Exercised"
 date: 2022-02-28
-tags: ['exercise', 'reading']
+tags: [exercise, reading]
 ---
 
 

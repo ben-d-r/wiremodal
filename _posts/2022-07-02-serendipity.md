@@ -2,7 +2,7 @@
 layout: post
 title: "Serendipity"
 date: 2022-07-02
-tags: ['science']
+tags: [science]
 ---
 
 

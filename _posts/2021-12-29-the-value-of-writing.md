@@ -2,7 +2,7 @@
 layout: post
 title: "The Value of Writing"
 date: 2021-12-29
-tags: ['writing']
+tags: [writing]
 ---
 
 

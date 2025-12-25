@@ -2,7 +2,7 @@
 layout: post
 title: "Reading notes - Week 52, 2021"
 date: 2021-12-31
-tags: ['reading']
+tags: [reading]
 ---
 
 

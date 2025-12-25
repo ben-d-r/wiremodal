@@ -2,7 +2,7 @@
 layout: post
 title: "Satoshi Dreams of Electronic Cash"
 date: 2022-01-09
-tags: ['bitcoin']
+tags: [bitcoin]
 ---
 
 

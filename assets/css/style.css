@@ -81,13 +81,13 @@ main {
     font-size: 0.85em;
     margin-left: 5px;
     text-decoration: none;
-    color: #333;
+    color: #333 !important;
     display: inline-block;
 }
 
 .tag:hover {
     background: #0B7285;
-    color: white;
+    color: white !important;
 }
 
 .post-content, .page-content {

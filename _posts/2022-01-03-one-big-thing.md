@@ -2,7 +2,7 @@
 layout: post
 title: "One Big Thing"
 date: 2022-01-03
-tags: ['bitcoin', 'fox']
+tags: [bitcoin, fox]
 ---
 
 

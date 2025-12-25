@@ -2,7 +2,7 @@
 layout: post
 title: "How to Live Forever"
 date: 2022-01-16
-tags: ['life manual', 'parenting']
+tags: [life manual, parenting]
 ---
 
 

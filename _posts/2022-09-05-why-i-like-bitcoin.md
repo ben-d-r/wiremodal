@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Like Bitcoin"
 date: 2022-09-05
-tags: ['bitcoin']
+tags: [bitcoin]
 ---
 
 

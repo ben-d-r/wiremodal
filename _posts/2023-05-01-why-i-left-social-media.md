@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Left Social Media"
 date: 2023-05-01
-tags: ['culture']
+tags: [culture]
 ---
 
 

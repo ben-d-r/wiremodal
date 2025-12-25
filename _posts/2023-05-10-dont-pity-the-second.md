@@ -2,7 +2,7 @@
 layout: post
 title: "Don't Pity the Second Child (too much) "
 date: 2023-05-10
-tags: ['parenting', 'life manual']
+tags: [parenting, life manual]
 ---
 
 

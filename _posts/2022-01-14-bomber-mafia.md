@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: The Bomber Mafia"
 date: 2022-01-14
-tags: ['reading']
+tags: [reading]
 ---
 
 
