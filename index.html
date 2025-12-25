@@ -1,0 +1,31 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+    <h1>Welcome to my blog.</h1>
+
+    <p>Thanks for visiting. This site is where I write about things that interest me. Feel free to share articles. If you have questions or comments, I'd love to <a href="mailto:benreesor@my-alias.com">hear from you</a>.</p>
+
+    <p>Enjoy your stay,</p>
+    <p>Ben</p>
+
+    <h2>Recent Posts</h2>
+
+    <ul class="post-list">
+        {% for post in site.posts limit:10 %}
+        <li>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <p class="post-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            </p>
+            {% if post.excerpt %}
+            <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+
+    <p><a href="{{ '/archive' | relative_url }}">View all posts &rarr;</a></p>
+</div>
