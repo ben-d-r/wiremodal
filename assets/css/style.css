@@ -37,7 +37,7 @@ nav ul {
 }
 
 nav a {
-    color: #0066cc;
+    color: #0B7285;
     text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ main {
 }
 
 .post-content a, .page-content a {
-    color: #0066cc;
+    color: #0B7285;
 }
 
 .post-content h1, .post-content h2, .post-content h3,
@@ -137,7 +137,7 @@ main {
 }
 
 .post-list h2 a:hover {
-    color: #0066cc;
+    color: #0B7285;
 }
 
 .post-excerpt {
