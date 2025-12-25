@@ -5,7 +5,6 @@ date: 2022-09-05
 tags: ['bitcoin']
 ---
 
-# Why I Like Bitcoin
 
 _Note to reader: What follows is my current thinking on the broad topic of Bitcoin. I expect that I'll revise it periodically as I learn more. It's fairly long but not nearly exhaustive; each section only scratches the surface of what could be written about the topic. If you have a correction or want me to expand on something, add a comment or write me an email._
 

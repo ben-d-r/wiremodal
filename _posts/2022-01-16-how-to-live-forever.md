@@ -5,7 +5,6 @@ date: 2022-01-16
 tags: ['life manual', 'parenting']
 ---
 
-# How to Live Forever
 
 Notes from a snowy walk with my son.
 * Have a family and spend time with them.

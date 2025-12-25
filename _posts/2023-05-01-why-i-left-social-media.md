@@ -5,7 +5,6 @@ date: 2023-05-01
 tags: ['culture']
 ---
 
-# Why I Left Social Media
 
 In January, I deleted most of my social media accounts. Facebook, Instagram, and LinkedIn were deleted permanently. Twitter held on for a bit, but as of this evening, it's gone.
 

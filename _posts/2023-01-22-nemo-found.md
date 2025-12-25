@@ -5,7 +5,6 @@ date: 2023-01-22
 tags: ['parenting']
 ---
 
-# Nemo Found
 
 Nemo is an only child, born from tragedy to a single father, Merlin. Merlin is protective and is nervous to see him join school with his friends. In defiance of his father, Nemo swims out too far into open water and is caught by a scuba diver. Merlin sets off to rescue him with his hapless, forgetful companion, Dory. Along the way, Merlin overcomes obstacles, Nemo learns how to fend for himself in the world, and, fortunately, Nemo is found.
 

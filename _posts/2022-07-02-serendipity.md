@@ -5,7 +5,6 @@ date: 2022-07-02
 tags: ['science']
 ---
 
-# Serendipity
 
 I had a microbiology professor at university who liked to point out the role of serendipity in scientific discovery. The oft-cited example is Alexander Fleming's discovery of penicillin. The story goes that he left his lab in disarray on a weekend: petri dishes covered with bacteria were strewn about the lab bench, the window left open. When he returned the following week, dishes that once had bacterial growth were bare. He discovered that a fungus had blown through the window, contaminating his petri dishes, and killing the bacteria on them. Eventually, penicillin was isolated from the fungus.
 

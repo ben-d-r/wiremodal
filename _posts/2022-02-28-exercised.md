@@ -5,7 +5,6 @@ date: 2022-02-28
 tags: ['exercise', 'reading']
 ---
 
-# Reading notes: Exercised
 
 Humans evolved to be physically active by necessity. We had to search for and chase our food for many millennia. Only very recently (evolutionarily speaking) has our food come to us.
 

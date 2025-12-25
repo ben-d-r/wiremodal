@@ -5,7 +5,6 @@ date: 2022-01-03
 tags: ['bitcoin', 'fox']
 ---
 
-# One Big Thing
 
 "A fox knows many things, but a hedgehog knows one big thing. - Archilochus"
 

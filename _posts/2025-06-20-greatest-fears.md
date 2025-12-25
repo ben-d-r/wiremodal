@@ -5,7 +5,6 @@ date: 2025-06-20
 tags: ['parenting']
 ---
 
-# My Greatest Fears
 
 We rode single file down the street past friends' houses. None happened to be out for a friendly wave. No matter. The air was warm and humid, the rain just holding off.  A perfect evening for a bike ride. 
 

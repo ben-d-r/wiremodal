@@ -5,7 +5,6 @@ date: 2023-05-10
 tags: ['parenting', 'life manual']
 ---
 
-# Don't Pity the Second Child (too much) 
 
 My youngest son, the second of two, is learning to count. When he sees a collection of objects in a book he's reading, he'll grab my finger and point to each while saying: "One, two, free, pour, pibe, sis". He's still working on seven to ten.
 

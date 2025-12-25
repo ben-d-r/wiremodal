@@ -50,6 +50,11 @@ main {
     min-height: 60vh;
 }
 
+/* Home page */
+.home-intro {
+    margin-bottom: 60px;
+}
+
 /* Post styling */
 .post-header, .page-header {
     margin-bottom: 30px;
@@ -77,6 +82,14 @@ main {
     line-height: 1.8;
 }
 
+.post-content p, .page-content p {
+    margin-bottom: 1.2em;
+}
+
+.post-content p:last-child, .page-content p:last-child {
+    margin-bottom: 0;
+}
+
 .post-content img, .page-content img {
     max-width: 100%;
     height: auto;
@@ -85,6 +98,22 @@ main {
 
 .post-content a, .page-content a {
     color: #0066cc;
+}
+
+.post-content h1, .post-content h2, .post-content h3,
+.page-content h1, .page-content h2, .page-content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.post-content ul, .post-content ol,
+.page-content ul, .page-content ol {
+    margin-bottom: 1.2em;
+    margin-left: 1.5em;
+}
+
+.post-content li, .page-content li {
+    margin-bottom: 0.5em;
 }
 
 /* Post list */

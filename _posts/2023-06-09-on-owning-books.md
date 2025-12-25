@@ -4,7 +4,6 @@ title: "On Owning Books"
 date: 2023-06-09
 ---
 
-# On Owning Books
 
 ![](https://assets.wiremodal.net/images/library-unsplash.jpeg)
 Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Ik8hRvVQzFo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

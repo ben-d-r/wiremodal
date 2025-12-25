@@ -5,7 +5,6 @@ date: 2021-12-31
 tags: ['reading']
 ---
 
-# Reading notes - Week 52, 2021
 
 [Fascine Mattresses: Basketry Gone Wild](https://solar.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html)
 

@@ -5,7 +5,6 @@ date: 2022-01-09
 tags: ['bitcoin']
 ---
 
-# Satoshi Dreams of Electronic Cash
 
 _I wrote this piece in spring 2021 when I was first exploring Bitcoin. It's structured as a reading guide for the Bitcoin whitepaper; as I dug into Nakamoto's work, I found I was Googling terms every few sentences. I made notes on what I read, which later became this guide._
 

@@ -5,7 +5,6 @@ date: 2021-12-29
 tags: ['writing']
 ---
 
-# The Value of Writing
 
 In 2009, I took a year off of school to live and work in Bangladesh. I decided to document my experiences on a personal blog and I'm glad that I did. I still read it sometimes and it immediately brings me back to those days in South Asia. I can hear and smell the streets. I recall the people that I met and the foods that I ate. Writing crystallizes the author's ideas and feelings while also communicating something meaningful to the reader. When that reader is the author's older self, it's like entering a time machine.
 

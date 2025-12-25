@@ -5,7 +5,6 @@ date: 2022-01-14
 tags: ['reading']
 ---
 
-# Book Review: The Bomber Mafia
 
 Malcolm Gladwell’s latest book was originally produced as an audiobook, later adapted to the written word. I didn’t know this until I finished the audiobook, so I’m glad that I listened to it instead of reading it. The listening experience was much like a long _Revisionist History_ podcast: live interviews, sound effects, music, Gladwell narrating. Like his podcast and his other books, this one was very well done. I highly recommend it.
 
