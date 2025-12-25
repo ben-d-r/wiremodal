@@ -55,6 +55,10 @@ main {
     margin-bottom: 60px;
 }
 
+.home-intro a {
+    color: #0B7285;
+}
+
 /* Post styling */
 .post-header, .page-header {
     margin-bottom: 30px;
