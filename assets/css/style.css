@@ -80,6 +80,14 @@ main {
     border-radius: 3px;
     font-size: 0.85em;
     margin-left: 5px;
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+}
+
+.tag:hover {
+    background: #0B7285;
+    color: white;
 }
 
 .post-content, .page-content {
@@ -147,6 +155,38 @@ main {
 .post-excerpt {
     margin-top: 10px;
     color: #666;
+}
+
+/* Tags page */
+.tag-cloud {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.tag-cloud li a {
+    background: #f0f0f0;
+    padding: 8px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+}
+
+.tag-cloud li a:hover {
+    background: #0B7285;
+    color: white;
+}
+
+.tag-count {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.tag-cloud li a:hover .tag-count {
+    color: white;
 }
 
 /* Footer */
