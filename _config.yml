@@ -1,8 +1,8 @@
 # Site settings
 title: wiremodal
 description: A personal blog by Ben Reesor
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/wiremodal" # the subpath of your site, e.g. /blog
+url: "https://ben-d-r.github.io" # the base hostname & protocol for your site
 
 # Author information
 author:
