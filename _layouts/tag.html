@@ -7,7 +7,10 @@ layout: default
     <p><a href="{{ '/tags' | relative_url }}">&larr; All tags</a></p>
 
     <ul class="post-list">
-        {% assign posts = site.tags[page.tag] | sort: 'date' | reverse %}
+        {% assign posts = site.tags[page.tag] %}
+        {% if posts %}
+            {% assign posts = posts | sort: 'date' | reverse %}
+        {% endif %}
         {% for post in posts %}
         <li>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
