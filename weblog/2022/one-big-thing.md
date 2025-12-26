@@ -1,6 +1,6 @@
 ---
 Date: 2022-01-03 21:45
-Tags: bitcoin, fox
+Tags: bitcoin
 Status: 
 ---
 
@@ -18,7 +18,7 @@ Over the years I've questioned whether this is the right approach to take. While
 
 II.
 
-Last year, I decided to be a hedgehog and focus my attention on one area of interest: [[bitcoin]]. I started writing a pseudonymous blog devoted to exploring this topic from a layman's perspective. I'm not a cryptographer or computer scientist but I reasoned that I had enough technical understanding to paint a picture of this new technology that the average person could understand.
+Last year, I decided to be a hedgehog and focus my attention on one area of interest: bitcoin. I started writing a pseudonymous blog devoted to exploring this topic from a layman's perspective. I'm not a cryptographer or computer scientist but I reasoned that I had enough technical understanding to paint a picture of this new technology that the average person could understand.
 
 I made progress. I wrote a few good pieces that I'm proud of. I will post them on this blog in the near future. However, I couldn't help but feel constrained. The mission of my blog was to explain bitcoin and why it matters to the everyday person. This was interesting for a while but I soon found that I craved the freedom to connect these esoteric concepts of computation and money to other aspects of life and society. I didn't feel that this could be done properly behind a pseudonym. I had to get back to blogging under my real name. I had to resume my natural state as a fox. The Bitcoin genesis block was mined by Satoshi Nakamoto on January 3, 2009, exactly thirteen years ago today. Twenty years from now, I think this date will be known by all. It will be taught in public schools and marked on calendars. For now, it's remembered only by a few hedgehogs who believe that this is the most transformative technology of our generation.
 
