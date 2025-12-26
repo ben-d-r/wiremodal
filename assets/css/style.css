@@ -128,6 +128,12 @@ main {
     margin-bottom: 0.5em;
 }
 
+/* Poetry formatting - preserve line breaks and add spacing */
+.post-content h2 + p,
+.post-content h2 ~ p {
+    line-height: 1.6;
+}
+
 /* Post list */
 .post-list {
     list-style: none;
