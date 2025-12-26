@@ -1,0 +1,41 @@
+# Site settings
+title: wiremodal
+description: A personal blog by Ben Reesor
+baseurl: "/wiremodal" # the subpath of your site, e.g. /blog
+url: "https://ben-d-r.github.io" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: Ben Reesor
+  email: benreesor@my-alias.com
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Exclude files from build
+exclude:
+  - README.md
+  - weblog/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - "*.py"
+  - migrate_posts.py
+  - fix_posts.py
+  - generate_tag_pages.py
+  - JEKYLL_SETUP.md
+
+# Theme (using custom layouts)
+# theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
