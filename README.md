@@ -1,3 +1,3 @@
 # wiremodal
 
-Publishing weblog.lol posts via GitHub.
+Publishing blog posts via GitHub.
