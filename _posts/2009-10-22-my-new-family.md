@@ -1,0 +1,14 @@
+---
+layout: post
+title: "My New Family"
+date: 2009-10-22 10:28:00 
+tags: ["In My Life"]
+---
+
+A few days ago I moved in with my new host family. As I mentioned before they are Hindu. The family consists of Swapan (pronounced: Show-pon), his wife Moli, son Piyash and Swapan's mother and father. There are two young men that live with them (though I don't think they're related). The first is named Pintu and he owns a small photo/cellphone top-up shop. I would say he's about 25 years old. The other is also named Swapan and he is a university student. My house is near a river on the outskirts of Bogra in a Hindu community.
+
+It's easy to tell that family is very important in Bangladesh. It is common for parents to live with their sons when they get old. Every relation has a different name in Bangla. For example, there is a different word for your older brother's wife and your younger brother's wife. You don't call your father's older brother the same name as your father's younger brother. In Bangladesh you never call anyone older than you by their first name. I call Swapan Swapan-da where the da is for respect. I call his wife Boudi (older brother's wife). I call his father kaka (uncle) and his mother kaki-ma (auntie). My Bangla teacher gave me a list of all the names for family members and it is one and a half pages long. Hindus and Christians use the same titles but Muslims have an entirely different set. This means a lot of confusion for me.
+
+A couple nights ago I went to kaki-ma's mother's (my didi) house for a birthday celebration. A little boy was turning one and I forget his relation to kaki-ma (maybe great-nephew?). It is a big family and I was introduced to a lot of people and I remember absolutely no names or anyone's title. I hope this doesn't come back to haunt me. Anyway, in Bengali fashion they fed me a lot of food. To start I had pouri (puffy flat bread), shobji torkari (vegetable curry) and dal (lentils). Then I had more. Then I had some mishti (very sweet things made from milk and a lot of sugar). I also had more of that. Then they fed me payes, which is a very sweet, milky rice pudding. Believe it or not I also had a second helping of that. To top it off I was given a Bengali version of Red Bull, called Royal Tiger. By the end of it I was pretty wired. All the food was very good though. I suppose I've been lucky so far. I seem to like everything I've eaten. Except burnt fish paste. That was gross.
+
+I was asked dozens of times "where is your country?" and "are you married?" Standard questions for bideshis (foreigners). In the middle of all this, eating, trying to converse in Bangla between mouthfuls of food, I realized I can never fit in here. It isn't possible for me to be a Bangladeshi. Even if I lived my entire adult life here I would still be a bideshi. However, that doesn't mean I can't try.
